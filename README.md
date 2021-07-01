@@ -6,7 +6,12 @@ Bridge schems of varying length in cardinal and intercardinal directions (N-S, W
 ### Dependencies:
 To load the schem files into your Minetest world you will need the [Minetest-WorldEdit tool](https://github.com/Uberi/Minetest-WorldEdit)
 
-### Instructions
+### Demo Instructions
+1. Drop the "bridges" folder into the "worlds" folder(i.e. /minetest/worlds/)
+2. Launch Minetest, select the "bridges" world and click "Play Game".
+3. Placards on each bridge show the file name for purposes of loading via WorldEdit.
+
+### WorldEdit Instructions
 1. Drop the schems folder into the root folder of the world you wish to add bridges to (i.e. /minetest/worlds/myworld/)
 2. If you haven't already, enable the Minetest-WorldEdit mod for the world you wish to add bridges to
 3. Survey the area in your world you wish to add a bridge, taking note of your bearings (press F9 to view a HUD map that includes an arrow that points north)
